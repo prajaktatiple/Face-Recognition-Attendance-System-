@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+trainer/*.yml
+dataset/*
+!dataset/.gitkeep
+attendance/*.csv
+!attendance/.gitkeep
